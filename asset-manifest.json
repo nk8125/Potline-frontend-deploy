@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Potline-frontend-deploy/static/css/main.62f439b6.css",
+    "main.js": "/Potline-frontend-deploy/static/js/main.489e6fcf.js",
+    "static/js/787.3b202775.chunk.js": "/Potline-frontend-deploy/static/js/787.3b202775.chunk.js",
+    "index.html": "/Potline-frontend-deploy/index.html",
+    "main.62f439b6.css.map": "/Potline-frontend-deploy/static/css/main.62f439b6.css.map",
+    "main.489e6fcf.js.map": "/Potline-frontend-deploy/static/js/main.489e6fcf.js.map",
+    "787.3b202775.chunk.js.map": "/Potline-frontend-deploy/static/js/787.3b202775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f439b6.css",
+    "static/js/main.489e6fcf.js"
+  ]
+}
